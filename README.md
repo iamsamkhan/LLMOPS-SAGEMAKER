@@ -1,7 +1,7 @@
 # LLMOPS-SAGEMAKER
 Automate LLM training and deployment pipeline using SageMaker and Langsmith Pipelines
 # Streamline LLM operations using Amazon SageMaker
-# clone repo https://github.com/iamsamkhan/LLMOPS-SAGEMAKER.git
+## clone repo https://github.com/iamsamkhan/LLMOPS-SAGEMAKER.git
 ## Getting started
 This workshop is designed to help you operationalize an open source Large Language Model (LLM), and use the LLM to build a generative AI Q&A bot. Basically, this workshop is broken down into the following parts:
 
