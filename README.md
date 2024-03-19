@@ -43,8 +43,6 @@ This repository contains the materials and source codes required to complete the
 
 # Awesome LLMOps
 
-<a href="https://discord.gg/KqswhpVgdU"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/KqswhpVgdU?style=flat"></a>
-<a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg"></a>
 
 An awesome & curated list of the best LLMOps tools for developers.
 
