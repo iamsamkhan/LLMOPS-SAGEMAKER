@@ -3,7 +3,8 @@ Automate LLM training and deployment pipeline using SageMaker and Langsmith Pipe
 
 [<b>shamshad ahmed</b>](mailto:smshad0001@gmail.com).
 Connect with me on social media:
-[![Shamshad ahmed](https://github.com/sponsors/iamsamkhan)
+
+[<b>shamshad ahmed</b>](https://github.com/sponsors/iamsamkhan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iamsamkhan/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/iamsamkhan)
 [![Medium](https://img.shields.io/badge/Medium-Follow-03a57a?style=flat-square&logo=medium)](https://medium.com/@iamsamkhan)
